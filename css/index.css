@@ -1,0 +1,13 @@
+h1{
+    color: red;
+}
+
+p{
+    background-color: bisque;
+}
+#chosen{
+    border: 10px solid yellow
+}
+.underline{
+    text-decoration: underline
+}
